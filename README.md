@@ -1,2 +1,2 @@
 # LinkedList
-Linked list basic programs.
+This are the basic operations programs that we performed in an array. 
